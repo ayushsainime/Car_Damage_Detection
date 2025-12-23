@@ -71,7 +71,7 @@ The model was fine-tuned on a diverse dataset to improve generalization across r
 🚀 How to Run the Project Locally
 1️⃣ Clone the Repository
 ```
-git clone https://github.com/your-username/car-damage-detection.git
+git clone  https://github.com/ayushsainime/Car_Damage_Detection
 cd car-damage-detection
 ```
 
