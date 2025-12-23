@@ -1,5 +1,7 @@
 # 🚗 Car Damage Detection using Deep Learning
 
+APP LINK - https://ayushsainime-car-damage-detection-app-kq3iyd.streamlit.app/
+
 An AI-powered web application that automatically classifies vehicle damage from images using a deep learning model based on **ResNet50**.  
 Built with **PyTorch** and deployed using **Streamlit**, this project aims to assist users, insurance companies, and inspection teams in quickly assessing vehicle damage.
 
